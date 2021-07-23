@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SiWEDEmcneGWhH7woyXqkA2tn1nY5HoMF9mn/3Tp8O1SnW3685+XutMcJNbj9/OzzztbRaMsP2fshn3iUVUFZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GabrielM\\Documents\\Projects\\amaris\\Amaris.Library\\Amaris.Library.Infraestructure\\Amaris.Library.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GabrielM\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\GabrielM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\GabrielM\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

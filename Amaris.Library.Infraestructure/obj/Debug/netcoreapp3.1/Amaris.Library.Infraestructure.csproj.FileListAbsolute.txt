@@ -1,0 +1,9 @@
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\bin\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.deps.json
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\bin\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.dll
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\bin\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.pdb
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.AssemblyInfo.cs
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.dll
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.pdb

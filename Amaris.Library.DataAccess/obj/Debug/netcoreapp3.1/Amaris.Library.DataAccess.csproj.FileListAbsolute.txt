@@ -1,0 +1,12 @@
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\bin\Debug\netcoreapp3.1\Amaris.Library.DataAccess.deps.json
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\bin\Debug\netcoreapp3.1\Amaris.Library.DataAccess.dll
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\bin\Debug\netcoreapp3.1\Amaris.Library.DataAccess.pdb
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\bin\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.dll
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\bin\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.pdb
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.AssemblyInfo.cs
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.csproj.CopyComplete
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.dll
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.pdb
