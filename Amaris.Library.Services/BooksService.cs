@@ -33,10 +33,31 @@ namespace Amaris.Library.Services
             return _mapper.Map<BookViewModel>(book);
         }
 
+        public async Task<IEnumerable<BookViewModel>> GetBookByTitleAsync(string title)
+        {
+            IEnumerable<Book> book = await _booksRepository.GetByTitleAsync(title);
+            return _mapper.Map<IEnumerable<BookViewModel>>(book);
+        }
+
         public async Task<IEnumerable<BookViewModel>> GetBooksAsync()
         {
             var books = await _booksRepository.GetAll();
             return _mapper.Map<IEnumerable<BookViewModel>>(books);
+
+        }
+
+        public async Task UpdateBookAsync(int id, UpdateBookViewModel book)
+        {
+            var bookOnDataBase = await _booksRepository.GetByIdAsync(id);
+            bookOnDataBase.Author = book.Author;
+            bookOnDataBase.Taken = book.Taken;
+            bookOnDataBase.Title = book.Title;
+            if (book.Taken)
+            {
+                bookOnDataBase.Loans++;
+            }
+
+            await _booksRepository.UpdateAsync(bookOnDataBase);
 
         }
     }

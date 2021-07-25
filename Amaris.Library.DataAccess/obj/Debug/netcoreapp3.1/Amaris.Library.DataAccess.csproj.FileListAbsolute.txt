@@ -10,3 +10,4 @@ C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAc
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.csproj.CopyComplete
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.dll
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.pdb
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.DataAccess\obj\Debug\netcoreapp3.1\Amaris.Library.DataAccess.GeneratedMSBuildEditorConfig.editorconfig

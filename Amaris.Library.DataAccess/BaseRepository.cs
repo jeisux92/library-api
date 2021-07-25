@@ -9,7 +9,7 @@ namespace Amaris.Library.DataAccess
 {
     public abstract class BaseRepository<T, TKey> : IBaseRepository<T, TKey> where T : BaseEntity<TKey>
     {
-        private readonly LibraryContext _context;
+        protected readonly LibraryContext _context;
 
         public BaseRepository(LibraryContext context)
         {

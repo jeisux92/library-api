@@ -10,7 +10,8 @@ using System.Threading.Tasks;
 namespace Amaris.Library.Api.Controllers.v1
 {
     [ApiController]
-    [Route("[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     public class BooksController : ControllerBase
     {
         private readonly IBooksService _booksService;
@@ -28,12 +29,24 @@ namespace Amaris.Library.Api.Controllers.v1
             return result is null ? NotFound() : Ok(result);
         }
 
+        [HttpGet()]
+        public async Task<IActionResult> GetAsync([FromQuery] string title)
+        {
+            if (string.IsNullOrEmpty(title))
+            {
+                return Ok(await _booksService.GetBooksAsync());
+            }
+            var result = await _booksService.GetBookByTitleAsync(title);
+            return result is null ? NotFound() : Ok(result);
+        }
 
-        [HttpGet]
+
+
+        [HttpGet("GetAll")]
         public async Task<IActionResult> GetAllAsync() => Ok(await _booksService.GetBooksAsync());
 
 
-        [HttpPost()]
+        [HttpPost]
         public async Task<IActionResult> CreateAsync(CreateBookViewModel book)
         {
             int result = await _booksService.CreateBookAsync(book);
@@ -42,6 +55,13 @@ namespace Amaris.Library.Api.Controllers.v1
                 return CreatedAtAction(nameof(GetAsync), new { id = result }, book);
             }
             return new StatusCodeResult(500);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateAsync(int id, [FromBody] UpdateBookViewModel book)
+        {
+            await _booksService.UpdateBookAsync(id, book);
+            return Ok();
         }
     }
 }

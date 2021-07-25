@@ -13,6 +13,8 @@ namespace Amaris.Library.Infraestructure.Mappers
                 .ReverseMap();
 
             CreateMap<CreateBookViewModel, Book>();
+
+            CreateMap<UpdateBookViewModel, Book>();
         }
     }
 }

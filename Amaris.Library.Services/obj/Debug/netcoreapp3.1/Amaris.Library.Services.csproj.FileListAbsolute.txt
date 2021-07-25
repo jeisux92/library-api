@@ -10,3 +10,4 @@ C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Servic
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Services\obj\Debug\netcoreapp3.1\Amaris.Library.Services.csproj.CopyComplete
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Services\obj\Debug\netcoreapp3.1\Amaris.Library.Services.dll
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Services\obj\Debug\netcoreapp3.1\Amaris.Library.Services.pdb
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Services\obj\Debug\netcoreapp3.1\Amaris.Library.Services.GeneratedMSBuildEditorConfig.editorconfig

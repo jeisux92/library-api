@@ -7,3 +7,4 @@ C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infrae
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.dll
 C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.pdb
+C:\Users\GabrielM\Documents\Projects\amaris\Amaris.Library\Amaris.Library.Infraestructure\obj\Debug\netcoreapp3.1\Amaris.Library.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig

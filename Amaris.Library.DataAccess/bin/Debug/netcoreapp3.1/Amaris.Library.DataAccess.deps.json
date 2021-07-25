@@ -19,6 +19,12 @@
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
           "System.Reflection.Emit": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.1.1.0"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {},
